@@ -1,0 +1,7 @@
+# .gitignore
+.venv/
+data/
+mlruns/
+*.env
+__pycache__/
+.ipynb_checkpoints/
