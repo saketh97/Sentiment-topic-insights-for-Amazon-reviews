@@ -120,25 +120,33 @@ Start the UI locally:
     Tip: To track remotely on Azure ML later, set the MLflow tracking URI to your Azure ML workspace; the code already uses standard MLflow APIs.
 
 🖼️ Screenshots
+
 **EDA — Label distribution**  
+
 ![Label Distribution](reports/figures/eda_label_distribution.png)
 
 **EDA — Review length**  
+
 ![Review Length](reports/figures/eda_length_hist.png)
 
 **Model introspection — Top positive n-grams**  
+
 ![Top Positive N-grams](reports/figures/model_top_pos_bars.png)
 
 **Model introspection — Top negative n-grams**  
+
 ![Top Negative N-grams](reports/figures/model_top_neg_bars.png)
 
 **Topics — Example top terms**  
+
 ![Topic 0 Top Terms](reports/figures/topics/topic_0_top_terms.png)
 
 **Streamlit app**  
+
 ![Streamlit App](reports/figures/streamlit_app.png)
 
-**MLflow run (optional)**  
+**MLflow run**  
+
 ![MLflow Run](reports/figures/mlflow_run.png)
 
 ✅ Example baseline results
