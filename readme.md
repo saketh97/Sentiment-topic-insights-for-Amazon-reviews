@@ -139,7 +139,7 @@ Start the UI locally:
 
 **Topics — Example top terms**  
 
-![Topic 0 Top Terms](reports/figures/topics/topic_0_top_terms.png)
+![Topic 0 Top Terms](reports/figures/topics/topic_1_top_terms.png)
 
 **Streamlit app**  
 
