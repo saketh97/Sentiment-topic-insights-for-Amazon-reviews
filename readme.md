@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="reports/figures/thumbnail.png" alt="Marketing NLP on Amazon Reviews — Sentiment + Topics + MLflow + Streamlit" width="900">
+  <img src="reports/figures/thumbnail.png" alt="Marketing NLP on Amazon Reviews — Sentiment + Topics + MLflow + Streamlit" width="640">
 </p>
 
 End-to-end sentiment + topic insights with MLflow tracking and a Streamlit mini-app.
