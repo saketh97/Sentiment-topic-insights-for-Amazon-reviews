@@ -127,4 +127,4 @@ with right:
                          .sort_values("rank").head(8)["term"].tolist())
                 name = label_map.get(int(k), f"Topic {k}")
                 st.markdown(f"- **{name}**: " + ", ".join(terms))
-                
+
