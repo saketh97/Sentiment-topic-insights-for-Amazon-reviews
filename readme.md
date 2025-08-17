@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Marketing NLP on Amazon Reviews
 
 End-to-end sentiment + topic insights with MLflow tracking and a Streamlit mini-app.
@@ -156,3 +158,6 @@ Start the UI locally:
     Azure ML remote tracking + deployment (Project 2)
 
     Batch scoring API (FastAPI) for reviews
+
+🔒 License
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
