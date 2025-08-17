@@ -72,10 +72,10 @@ End-to-end sentiment + topic insights with MLflow tracking and a Streamlit mini-
     
 📦 Data
     Download a small Amazon Reviews category file [Musical_Instruments_5.json.gz](https://mcauleylab.ucsd.edu/public_datasets/data/amazon_v2/categoryFilesSmall/Musical_Instruments_5.json.gz) and place it in
-        data/raw/Musical_Instruments_5.json.gz
+        
+          data/raw/Musical_Instruments_5.json.gz
 
-    THe below is the link for Amazon rviews daatset 
-        [Amazon reviews](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/)
+    The link for Amazon rviews daatset [Amazon reviews](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/)
 
 ▶️ How to run
     A) Prepare data (cleaning + labeling)
