@@ -75,7 +75,7 @@ End-to-end sentiment + topic insights with MLflow tracking and a Streamlit mini-
         
           data/raw/Musical_Instruments_5.json.gz
 
-    The link for Amazon rviews daatset [Amazon reviews](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/)
+    The link for Amazon reviews daatset [Amazon reviews](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/)
 
 ▶️ How to run
     
