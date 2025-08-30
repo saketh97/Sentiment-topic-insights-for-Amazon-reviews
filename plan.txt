@@ -1,0 +1,38 @@
+The data is about musical instrument reviewes which has review itslef and overall rating 1-5 and date of reivew.
+
+useful fields:
+a. overall - rating
+b. review time - date of review
+c. reviewText - the actual review
+
+EDA:
+a. what is the rating distribution? is it skewed? - done
+b. what is the timeline distrution? is it skewed?
+c. can we see as time progresses how the rating has progressed?
+d. what are top vocabs used in +ve, -ve and neutral?
+e. for positive reviewes what is leading to positive reviwes? experience(sounding, ease), product quality, price etc?   
+f. for negative reviewes what is leading factors in reviwes? experience(sounding, ease), quality, price etc?   
+
+
+As an app:
+1. For the given review can predict its sentiment?
+2. Can we show what are probable factors for that sentiment?
+3. Can we should %wise what are the top contributing sub factors for that leading factors in past year?
+
+ABS (Aspect-Based Sentiment) layer: add 6–8 aspects (Fit, Quality, Shipping, Price, Support, Durability). Report coverage and per-aspect pos/neg rates; surface top negative sentences in the UI.
+Drift dashboard: weekly PSI for token/length/label distributions; alert if PSI>0.2.
+Azure ML: push MLflow runs to Azure, register model, deploy a managed endpoint, record p95 latency and cost per 1k inferences.
+
+
+Making the most of reviews:
+1. Review highlights make it easier to understand common themes across reviews by providing a short AI summary paragraph that highlights product features and customer sentiment mentioned across written reivews.
+2. Look at what delighted or disappointed other customers, sort by most recent, verified purchases, filter by star ratings
+3. Use rufus (Amazons gen-AI shopping assistant) -  designed to answer questions on shopping needs there by reducing time and help with informed decisions
+Rufus uses product lsiting details, customer reviews, and community Q&As, it also shows what customers say regarding product along with answering specific question of customer.
+Rufus recommends products based on the question understanding - shares some facts about the approach and suggests products.
+Rufus also compares products with their positives and negatives and suggests the suitable ones
+Rufus also provides latest trends on product categories, provides information on our past and current orders.
+
+Factors influence the reviews ratings shown in amazon:
+recency of reviews, authenticity of feedback.
+
